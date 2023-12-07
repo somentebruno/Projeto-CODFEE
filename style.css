@@ -279,7 +279,6 @@ footer{
 
 .footer-autor{
   color: rgba(255, 242, 231, 0.50);
-
-font-family: Inter;
-font-size: 0.875rem;
+  font-family: Inter;
+  font-size: 0.875rem;
 }
